@@ -1,0 +1,46 @@
+body{
+          background-color: rgb(39, 39, 152);
+}
+input{
+          width: 80px;
+          height: 80px;
+          margin-bottom: 5px;
+          font-size: large;
+          text-align: center;
+          background-color: skyblue;
+          border-radius: 10px;
+}
+.screen{
+          width: 330px;
+          margin-bottom: 35px;
+          margin-top: 20px;
+          background-color: #fff;
+          font-size: 40px;
+}
+.screen:hover{
+          background-color: white;
+          color: black;
+}
+button{
+          width: 340px;
+          height: 50px;
+          font-size: large;
+          color: white;
+          background-color: rgb(255, 30, 30);
+          border-radius: 10px;
+}
+button:hover, input:hover {
+          background-color: red;
+          color: white;
+}
+form{
+          border: black 10px solid;
+          border-radius: 10px;
+          padding: 10px;
+          width: 400px;
+          margin: 0 auto;
+}
+#ac{
+          margin: 10px 0;
+          height: 70px;
+}
